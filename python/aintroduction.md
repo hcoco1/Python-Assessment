@@ -1,6 +1,6 @@
 ##### Navigation
 
-[Back to Home 🏠](../README.md) | [Next: Stage: Identification](stage1.md)
+[Back to Home 🏠](../README.md) | [Next: Technical Assessment](btechnical _assessment.md)
 
 
 ## Introduction
@@ -13,4 +13,4 @@ Complete the assessment in Unit 4: Jupyter Notebook machine as your instructor(s
 
 ##### Navigation
 
-[Back to Home 🏠](../README.md) | [Next: Stage: Identification](stage1.md)
+[Back to Home 🏠](../README.md) | [Next: Technical Assessment](btechnical _assessment.md)

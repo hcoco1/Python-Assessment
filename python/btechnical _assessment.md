@@ -1,6 +1,6 @@
 #### Navigation
 
-[Back to Home 🏠](../README.md) | [Back to Introduction ](introduction.md)  |  [Next: Stage: Challenge](challenge.md)
+[Back to Home 🏠](../README.md) | [Back to Introduction ](introduction.md)  |  [Next: Challenge](challenge.md)
 
 ## Unit 4 Career Preparation: Technical Assessment
 
@@ -109,4 +109,4 @@ with open('problem5.txt', 'r') as file:
 
 #### Navigation
 
-[Back to Home 🏠](../README.md) | [Back to Introduction ](introduction.md)  |  [Next: Stage: Challenge](challenge.md)
+[Back to Home 🏠](../README.md) | [Back to Introduction ](introduction.md)  |  [Next: Challenge](challenge.md)
