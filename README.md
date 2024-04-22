@@ -10,16 +10,16 @@ Ivan Arias
 
 ---
 
-Welcome to the **Career Simulation 1 Runbook**. This document is designed to guide new hires through the process of understanding and troubleshooting the cybersecurity tools used at StackFull Software. You will be guided by  a SOC Analyst, to explore various business units and manage Splunk SIEM effectively.
+Welcome to the **Python Technical Assessment**
 
 ### Table of Contents
 
-- [Onboarding](stages/anboarding.md)
-- [Introduction](stages/introduction.md)
-- [Stage:  Identification](stages/stage1.md)
-- [Stage: Analysis](stages/stage2.md)
-- [Stage:  Preservation](stages/stage3.md)
-- [Summary](stages/summary.md)
+
+- [Introduction](python/aintroduction.md)
+- [Unit 4: Technical Assessment](python/btechnical_assessment.md)
+- [Unit 4: Challenge](python/challenge.md)
+
+
 
 ---
 🔍

@@ -1,0 +1,6 @@
+192.168.1.100  ['/index.html', '/index.html']
+192.168.1.101  ['/about.html', '/about.html']
+192.168.1.102  ['/contact.html', '/contact.html']
+192.168.1.103  ['/images/logo.png', '/images/logo.png']
+192.168.1.104  ['/blog', '/blog']
+192.168.1.105  ['/blog/post1.html', '/blog/post1.html']
